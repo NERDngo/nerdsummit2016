@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2016.nerdsummit.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>New England Regional Developers - Programming</title>
+ <link>http://2016.nerdsummit.org/session-tracks-nerdsummit-2014/programming</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Intro to Ruby</title>
+ <link>http://2016.nerdsummit.org/session/intro-ruby</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Ruby is one of those fast growing programming languages. And there is a pretty large demand for Ruby coders.
+During this session we&#039;ll cover through an introduction that will involve the following concepts:
+
+&lt;ul&gt;
+&lt;li&gt;Installation&lt;/li&gt;
+&lt;li&gt;Simple Hello world&lt;/li&gt;
+&lt;li&gt;Using Ruby like a calculator&lt;/li&gt;
+&lt;li&gt;About Numbers&lt;/li&gt;
+&lt;li&gt;Fun with Operations and precedence&lt;/li&gt;
+&lt;li&gt;Hacking with Strings&lt;/li&gt;
+&lt;li&gt;Scope&lt;/li&gt;
+&lt;li&gt;Designing Ruby methods/functions&lt;/li&gt;
+&lt;li&gt;Comparing Strings&lt;/li&gt;
+&lt;li&gt;Ruby blocks&lt;/li&gt;
+&lt;li&gt;Arrays and associative hashes (primer to data structures)&lt;/li&gt;
+&lt;li&gt;Writing command line programs&lt;/li&gt;
+&lt;li&gt;Regular expressions&lt;/li&gt;
+&lt;li&gt;Object Oriented programming (basics)&lt;/li&gt;
+&lt;li&gt;Where to find more information and how to learn more about Ruby?&lt;/li&gt;
+&lt;/ul&gt;
+
+
+This session should be about an hour and 30 minutes.&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience field-type-list-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-og-vocabulary field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Session Track:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;div class=&quot;item-list&quot;&gt;&lt;h3&gt;Session Tracks (NERDSummit 2014)&lt;/h3&gt;&lt;ul&gt;&lt;li class=&quot;first last&quot;&gt;&lt;a href=&quot;/session-tracks-nerdsummit-2014/programming&quot;&gt;Programming&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Sessions Topics:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/session-tracks/development&quot;&gt;Development&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker-bio-s- field-type-text-long field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Speaker Bio(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Emily Karungi is a software developer specializing in Python and Ruby. She lives in Kampala, Uganda. As a technologist and a woman, Emily is an influential member of her community. She is involved in the Girl Geek Kampala project and was most recently a Google Developer Group team at her university. She is also the founder of &lt;a href=&#039;http://coderin90.com&#039;&gt;Coder in 90&lt;/a&gt;, a one on one mentorship and apprenticeship program for developers. She loves to tinker with hardware components (she&#039;s a hardware nerd too)&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 06 Jul 2014 17:22:56 +0000</pubDate>
+ <dc:creator>emily</dc:creator>
+ <guid isPermaLink="false">148 at http://2016.nerdsummit.org</guid>
+ <comments>http://2016.nerdsummit.org/session/intro-ruby#comments</comments>
+</item>
+<item>
+ <title>Introduction to Ruby on Rails</title>
+ <link>http://2016.nerdsummit.org/session/introduction-ruby-rails</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Since its release in 2004, &lt;a href=&quot;https://www.rubyonrails.org&quot;&gt;Ruby on Rails&lt;/a&gt; has grown to be the leading framework for developing web applications in Ruby. 
+
+
+Rails is many things:
+&lt;ol&gt;
+&lt;li&gt;Open source&lt;/li&gt;
+&lt;li&gt; Rails promotes best practices - out of the box Rails encourages best practices like TDD, BDD, and clean separation of concerns.  The consistent project structure means developers know (generally speaking) right where to go to find whatever they need.&lt;/li&gt;
+&lt;li&gt;Made for the web - The framework really solves the common problems you&#039;re going to face when building for the web.  We can get the initial repeatable setup steps out of the way quickly and get to the true business development tasks quickly.&lt;/li&gt;
+&lt;li&gt;Rails fits a hack culture - As a Rails developer, you kind of have to stay up on what&#039;s going on with the web and how technology is evolving.  The framework moves so quickly that folks can&#039;t really bank on what they knew 3 months ago being applicable today.
+&lt;/li&gt;
+&lt;/ol&gt;
+
+During the session you will also see a simple site developed, from project skeleton to running web application.
+
+The session should be about two hours long&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience field-type-list-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-og-vocabulary field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Session Track:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;div class=&quot;item-list&quot;&gt;&lt;h3&gt;Session Tracks (NERDSummit 2014)&lt;/h3&gt;&lt;ul&gt;&lt;li class=&quot;first last&quot;&gt;&lt;a href=&quot;/session-tracks-nerdsummit-2014/programming&quot;&gt;Programming&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Sessions Topics:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/session-tracks/development&quot;&gt;Development&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker-bio-s- field-type-text-long field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Speaker Bio(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Emily Karungi is a software developer specializing in Python and Ruby. She lives in Kampala, Uganda.
+
+As a technologist and a woman, Emilly is an influential member of her community. She is involved in the Girl Geek Kampala project and was most recently a Google Developer Group team at her university.
+
+She is also the founder of &lt;a href=&#039;http://coderin90.com&#039;&gt;Coder in 90&lt;/a&gt;, a one on one mentorship and apprenticeship program for developers.
+She loves to tinker with hardware components (she&#039;s a hardware nerd too)&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 06 Jul 2014 17:09:12 +0000</pubDate>
+ <dc:creator>emily</dc:creator>
+ <guid isPermaLink="false">147 at http://2016.nerdsummit.org</guid>
+ <comments>http://2016.nerdsummit.org/session/introduction-ruby-rails#comments</comments>
+</item>
+<item>
+ <title>Terminal Basics for Everyone</title>
+ <link>http://2016.nerdsummit.org/session/terminal-basics-everyone</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Learn about the basics of the terminal. This is a relatively short intro to terminal basics. This will include:
+
+&lt;ul&gt;
+&lt;li&gt;Learning to create folders&lt;/li&gt;
+&lt;li&gt;Creating files&lt;/li&gt;
+&lt;li&gt;Using Vim (basics)&lt;/li&gt;
+&lt;li&gt;Deleting files&lt;/li&gt;
+&lt;li&gt;Deleting folders&lt;/li&gt;
+&lt;li&gt;Using system variables and intro to the bash profile&lt;/li&gt;
+&lt;li&gt;Powering up your terminal: Using Zshel&lt;/li&gt;
+&lt;li&gt;Prettyfing your terminal with themes and colors&lt;/li&gt;
+&lt;li&gt;Any other stuff to do with a terminal&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience field-type-list-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-timeslot field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Session Time Slot(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;div class=&quot;entity entity-field-collection-item field-collection-item-field-event-timeslots clearfix&quot;&gt;
+  &lt;div class=&quot;content&quot;&gt;
+    &lt;div class=&quot;field field-name-field-timeslot-time field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Time:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sep 12 2014 - 9:00am-Sep 12 2014 - 9:50am&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-timeslot-room field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;178&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-timeslot-allowed-types field-type-list-cts field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Allowed Types:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Session&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-og-vocabulary field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Session Track:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;div class=&quot;item-list&quot;&gt;&lt;h3&gt;Session Tracks (NERDSummit 2014)&lt;/h3&gt;&lt;ul&gt;&lt;li class=&quot;first last&quot;&gt;&lt;a href=&quot;/session-tracks-nerdsummit-2014/programming&quot;&gt;Programming&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Sessions Topics:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/session-tracks/development&quot;&gt;Development&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-requested-session field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Requested Session:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/request/beginner-training-terminal-basics&quot;&gt;Beginner training: Terminal Basics&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 06 Jul 2014 16:30:52 +0000</pubDate>
+ <dc:creator>sanguis</dc:creator>
+ <guid isPermaLink="false">146 at http://2016.nerdsummit.org</guid>
+ <comments>http://2016.nerdsummit.org/session/terminal-basics-everyone#comments</comments>
+</item>
+<item>
+ <title>Creating Nice Web APIs with Flask</title>
+ <link>http://2016.nerdsummit.org/session/creating-nice-web-apis-flask</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Learn to build web APIs using Flask. This session introduces developers to the art of design robust APIs using an easy to use platform. Many might then be able to transfer the principles they learn here to other projects or frameworks.
+
+An API is a crucial component to many businesses these days. Exposing data to 3rd party developers is a very important business strategy that enables scaling of a service to more than just one technology channel.&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience field-type-list-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-og-vocabulary field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Session Track:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;div class=&quot;item-list&quot;&gt;&lt;h3&gt;Session Tracks (NERDSummit 2014)&lt;/h3&gt;&lt;ul&gt;&lt;li class=&quot;first last&quot;&gt;&lt;a href=&quot;/session-tracks-nerdsummit-2014/programming&quot;&gt;Programming&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Sessions Topics:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/session-tracks/development&quot;&gt;Development&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker-bio-s- field-type-text-long field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Speaker Bio(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Victor is a tech lead and partner at Imaginarium, a company based in Nairobi, Kenya. He has previously worked with organizations such as UNICEF, FAO, MIT (EPROM), Ushahidi/SwiftRiver, among others. 
+Victor also founded the Girl Geek Kampala together with colleagues in 2012, and loves to mentor software developers globally through a New York based company called Thinkful, he also occasionally consults with and invests in tech startups too.&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 06 Jul 2014 16:18:00 +0000</pubDate>
+ <dc:creator>miclovich</dc:creator>
+ <guid isPermaLink="false">145 at http://2016.nerdsummit.org</guid>
+ <comments>http://2016.nerdsummit.org/session/creating-nice-web-apis-flask#comments</comments>
+</item>
+<item>
+ <title>Structured Content in Drupal and WordPress</title>
+ <link>http://2016.nerdsummit.org/session/structured-content-drupal-and-wordpress</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;This talk examines how Drupal (7.x) and WordPress (3.9/4.0) handle custom content types, and use that to explore how the philosophies of the two platforms/communities differ.&lt;/p&gt;
+
+&lt;p&gt;Drupal had CCK going back to 5.x, and moved much of CCK into core in Drupal 7. WordPress had PODS in 2008, and introduced custom post types in 3.0 - but the two frameworks take very different approaches to creating custom content types. &lt;/p&gt;
+
+&lt;p&gt;Drupal&#039;s core implementation is much more robust in terms of the power offered to administrative users without writing code, whereas WordPress relies on code (plugins or themes) to create custom post types.&lt;/p&gt;
+
+&lt;p&gt;I&#039;ll also cover Blocks/Widgets, Taxonomies, and metadata, and how each can be added via code or managed via the admin interface. &lt;/p&gt;
+
+&lt;p&gt;Although I will use some code samples, the talk is more focused on how each platform/community deals with this question: what it exposes to end users, how users change the behavior, how other functional modules/plugins interact with content types, etc. Is there anything each can learn from the other?&lt;/p&gt;
+
+&lt;p&gt;It&#039;s not meant as a &quot;this one gets it right; this one gets it wrong&quot; but an even-handed exploration of what each does well and more importantly what each approach reveals about the underlying philosophy and community, and the impact that has on developers, site owners, content editors, and other stakeholders. &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slides field-type-file field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Slides:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;span class=&quot;file&quot;&gt;&lt;img class=&quot;file-icon&quot; alt=&quot;&quot; title=&quot;application/pdf&quot; src=&quot;/modules/file/icons/application-pdf.png&quot; /&gt; &lt;a href=&quot;http://2016.nerdsummit.org/sites/default/files/slides/NERD%20Summit%20-%20Custom%20Content.pdf&quot; type=&quot;application/pdf; length=5618422&quot;&gt;NERD Summit - Custom Content.pdf&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience field-type-list-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Intermediate&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-timeslot field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Session Time Slot(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;div class=&quot;entity entity-field-collection-item field-collection-item-field-event-timeslots clearfix&quot;&gt;
+  &lt;div class=&quot;content&quot;&gt;
+    &lt;div class=&quot;field field-name-field-timeslot-time field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Time:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sep 13 2014 - 11:00am-Sep 13 2014 - 11:50am&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-timeslot-room field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;165-69&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-timeslot-allowed-types field-type-list-cts field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Allowed Types:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Session&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-og-vocabulary field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Session Track:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;div class=&quot;item-list&quot;&gt;&lt;h3&gt;Session Tracks (NERDSummit 2014)&lt;/h3&gt;&lt;ul&gt;&lt;li class=&quot;first last&quot;&gt;&lt;a href=&quot;/session-tracks-nerdsummit-2014/programming&quot;&gt;Programming&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Sessions Topics:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/session-tracks/development&quot;&gt;Development&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker-bio-s- field-type-text-long field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Speaker Bio(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Currently CEO at 10up, a WordPress focused design and development agency. Long time Drupal and WordPress developer, open source advocate, Content Management System consultant.&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 29 Jun 2014 13:59:47 +0000</pubDate>
+ <dc:creator>jeckman</dc:creator>
+ <guid isPermaLink="false">141 at http://2016.nerdsummit.org</guid>
+ <comments>http://2016.nerdsummit.org/session/structured-content-drupal-and-wordpress#comments</comments>
+</item>
+<item>
+ <title>Architecting distributed, high-performance systems</title>
+ <link>http://2016.nerdsummit.org/session/architecting-distributed-high-performance-systems</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Running a simple web application on a single server is easy. But what if you really need to scale? What if you need fault tolerance? How can you eliminate single points of failure? And how can you do this while retaining your own sanity?&lt;/p&gt;
+
+&lt;p&gt;This talk will discuss high availability, concurrency, fault tolerance and other necessary components of &quot;web scale&quot; applications. There will be a big emphasis on loosely coupled systems and asynchronous communication between components, along with the software that makes this easier for both the developer and sysadmin.&lt;/p&gt;
+
+&lt;p&gt;This talk will discuss web server architecture (&lt;a href=&quot;https://developers.google.com/speed/spdy/&quot;&gt;spdy&lt;/a&gt;, &lt;a href=&quot;http://nginx.org&quot;&gt;nginx&lt;/a&gt;, apache &lt;a href=&quot;http://httpd.apache.org/docs/2.2/mod/worker.html&quot;&gt;mpm_worker&lt;/a&gt;, &lt;a href=&quot;http://httpd.apache.org/docs/2.2/mod/prefork.html&quot;&gt;mpm_prefork&lt;/a&gt;, &lt;a href=&quot;http://httpd.apache.org/mod_fcgid/&quot;&gt;mod_fcgid&lt;/a&gt;), development languages designed for high concurrency (&lt;a href=&quot;http://nodejs.org&quot;&gt;node.js&lt;/a&gt;, &lt;a href=&quot;http://www.scala-lang.org&quot;&gt;scala&lt;/a&gt;, &lt;a href=&quot;http://www.erlang.org&quot;&gt;erlang&lt;/a&gt;), high performance database systems from de-normalizing and sharding &lt;a href=&quot;http://www.mysql.com&quot;&gt;mysql&lt;/a&gt; to using fully distributed databases such as &lt;a href=&quot;http://www.mongodb.com&quot;&gt;MongoDB&lt;/a&gt; or &lt;a href=&quot;http://basho.com/riak/&quot;&gt;Riak&lt;/a&gt;. And finally, there will be a tour through application messaging architectures and some of the tools from the simple (&lt;a href=&quot;https://github.com/blog/542-introducing-resque&quot;&gt;resque&lt;/a&gt;) to the more full-featured (&lt;a href=&quot;https://activemq.apache.org&quot;&gt;ActiveMQ&lt;/a&gt;, &lt;a href=&quot;http://www.rabbitmq.com&quot;&gt;RabbitMQ&lt;/a&gt;, &lt;a href=&quot;https://camel.apache.org&quot;&gt;Camel&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;Some understanding of networking protocols (especially &lt;a href=&quot;http://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol&quot;&gt;HTTP&lt;/a&gt;) would be helpful, as would some background in the functional programming paradigm (especially the &lt;a href=&quot;http://en.wikipedia.org/wiki/MapReduce&quot;&gt;Map-Reduce&lt;/a&gt; model). This talk will also discuss how some of these techniques can be applied to existing applications, such as WordPress or Drupal.&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience field-type-list-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Advanced&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-timeslot field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Session Time Slot(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;div class=&quot;entity entity-field-collection-item field-collection-item-field-event-timeslots clearfix&quot;&gt;
+  &lt;div class=&quot;content&quot;&gt;
+    &lt;div class=&quot;field field-name-field-timeslot-time field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Time:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sep 13 2014 - 11:00am-Sep 13 2014 - 11:50am&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-timeslot-room field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;162-75&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-timeslot-allowed-types field-type-list-cts field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Allowed Types:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Session&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-og-vocabulary field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Session Track:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;div class=&quot;item-list&quot;&gt;&lt;h3&gt;Session Tracks (NERDSummit 2014)&lt;/h3&gt;&lt;ul&gt;&lt;li class=&quot;first last&quot;&gt;&lt;a href=&quot;/session-tracks-nerdsummit-2014/programming&quot;&gt;Programming&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Sessions Topics:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/session-tracks/development&quot;&gt;Development&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker-bio-s- field-type-text-long field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Speaker Bio(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Aaron Coburn is a SysAdmin / Programmer at Amherst College. He is particularly fond of cloud computing and distributed, high-performance systems. He is an active committer to a cloud computing system from the Apache Software Foundation and involved in a number of library-related linked data initiatives.&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 26 Jun 2014 19:40:32 +0000</pubDate>
+ <dc:creator>acoburn</dc:creator>
+ <guid isPermaLink="false">140 at http://2016.nerdsummit.org</guid>
+ <comments>http://2016.nerdsummit.org/session/architecting-distributed-high-performance-systems#comments</comments>
+</item>
+<item>
+ <title>Choosing a CMS, Installing and Configuring, Themes, Modules and Hosting</title>
+ <link>http://2016.nerdsummit.org/session/choosing-cms-installing-and-configuring-themes-modules-and-hosting</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;A Content Management System (CMS) makes it possible for you and others to add and edit content on your web site any time from a variety of devices. &lt;p&gt;
+We will look at a few different options you have to start using a CMS, including using a hosted service or installing it yourself, and we will highlight the basic differences of the top Free Software CMS contenders.
+This session is an overview of content management system concepts and in particular WordPress and Drupal.  
+&lt;p&gt;Beyond how to do day-to-day administration, this session will include a walk-through of both the WordPress and Drupal 7 installation processes, basic configuration, and selection and configuration of some community-contributed plugins (for WordPress) and modules (for Drupal).  We will spend relatively more time on Drupal because it is the more complex and powerful option, best suited for a web site requiring significant user or community interaction and the potential to grow with new functionality.
+&lt;p&gt;
+
+What we will do:
+&lt;br&gt; Introduction to CMS concepts, basic configurations, modules and themes
+&lt;p&gt;
+Discussion - Installing Drupal, WordPress or a hosted solution like DrupalGardens.com or WordPress.com
+&lt;p&gt;
+How to do a basic installation of a CMS, WordPress and Drupal
+&lt;ul&gt;
+&lt;li&gt;Download Wordpress
+&lt;li&gt;Create Database
+&lt;li&gt;Installation
+&lt;li&gt;Choosing a Theme -- Install - Enable - Configure
+&lt;li&gt;Choose Plugins – Install – Enable - Basic Configuration
+&lt;/ul&gt;
+Slides in this session will be based on a Drupal 7x Installation.
+&lt;p&gt;
+&lt;ul&gt;&lt;li&gt;Download Drupal
+&lt;li&gt;Server Configuration
+&lt;li&gt;Create Database
+&lt;li&gt;Installation – settings.php
+&lt;li&gt;Choosing a Theme -- Install - Enable - Configure
+&lt;li&gt;Choose Modules – Install – Enable - Basic Configuration
+&lt;li&gt;Admin Configuration – Permissions – Roles
+&lt;li&gt;Navigating the Admin Screens
+&lt;li&gt;Adding Content  (Nodes,Taxonomy etc.)
+&lt;li&gt;How Drupal and MySQL Work Together 
+&lt;li&gt;Hosting Requirements - 3 things are necessary to run a Drupal installation
+&lt;/ul&gt;
+&lt;p&gt;
+Caveats: 
+&lt;ol&gt;&lt;li&gt;I am not a Database Administrator. 
+&lt;li&gt;I am not a System Administrator
+&lt;li&gt;This is not an in-depth study of  Drupal  or Wordpress Administration
+&lt;li&gt;This is not an in-depth study of Drupal 7 Configurations
+&lt;/ol&gt;
+&lt;p&gt;
+Join the Drupal or Wordpress community – Give Help, Get Help. 
+Happy Hacking - Do not hack core.&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience field-type-list-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-og-vocabulary field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Session Track:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;div class=&quot;item-list&quot;&gt;&lt;h3&gt;Session Tracks (NERDSummit 2014)&lt;/h3&gt;&lt;ul&gt;&lt;li class=&quot;first last&quot;&gt;&lt;a href=&quot;/session-tracks-nerdsummit-2014/programming&quot;&gt;Programming&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Sessions Topics:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/session-tracks/development&quot;&gt;Development&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker-bio-s- field-type-text-long field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Speaker Bio(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Micky is a member of Agaric, a growing cooperative of Drupal Developers. Bringing new members to the community is her favorite thing to do. She also loves building sites that can be useful to Drupal developers and beginners. 
+&lt;p&gt;
+    She usually spends time ---
+&lt;ul&gt;
+   &lt;li&gt;Consulting on various Drupal Projects
+   &lt;li&gt; Learning about new Drupal modules and updates
+   &lt;li&gt; Attending Drupal Events
+    &lt;li&gt;Presenting at Drupal events
+    &lt;li&gt;Teaching beginners how to get started with Drupal
+    &lt;li&gt;Creating Webinars and tutorials on Drupal installation, VoipDrupal
+    &lt;li&gt;Training people to update and maintain their Drupal Websites
+    &lt;li&gt;Acting as a Drupal evangelist.
+&lt;/ul&gt;
+&lt;p&gt;
+Micky&#039;s Drupal.org User Profile: https://www.drupal.org/user/69463
+&lt;p&gt;
+Benjamin Melancon:
+&lt;p&gt;
+Benjamin lives and works to connect people, ideas, and resources so more awesome things happen.
+&lt;p&gt;
+A programmer and web applications developer focusing on Drupal, his work with Agaric clients has included Harvard University, GenArts, and Studio Daniel Libeskind.
+&lt;p&gt;
+Benjamin tries to aid struggles for justice and liberty, and has a corresponding passion for authentic news. He is an organizer of the only People Who Give a Damn recognized as an incorporated entity by the IRS and the Commonwealth of Massachusetts charities division. He has also supported several artistic and philanthropic ventures and was a founding, elected director to the Amazing Things Arts Center in Framingham, Massachusetts.
+&lt;p&gt;
+He led 34 authors in writing the 1,100 page Definitive Guide to Drupal 7, but he is probably still best known in the Drupal community for posting things he finds to data.agaric.com where developers running into the same challenges at least find that they are not alone.
+&lt;p&gt;
+Ben&#039;s Drupal.org User Profile: https://www.drupal.org/user/69463&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-requested-session field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Requested Session:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/request/beginner-training-cms-installs-modulepluginstheme-installs-basic-config&quot;&gt;Beginner training: CMS installs, Module/Plugins/Theme installs, Basic Config&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 22 Jun 2014 17:41:20 +0000</pubDate>
+ <dc:creator>freescholar</dc:creator>
+ <guid isPermaLink="false">138 at http://2016.nerdsummit.org</guid>
+ <comments>http://2016.nerdsummit.org/session/choosing-cms-installing-and-configuring-themes-modules-and-hosting#comments</comments>
+</item>
+<item>
+ <title>How to be a Six Figure Developer</title>
+ <link>http://2016.nerdsummit.org/session/how-be-six-figure-developer</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Software and website developers are in extremely high demand and rates continue to climb, but many developers have not yet realized their potential. In this talk we lay out some simple and proven ways to measure your accomplishments, establish a personal brand, and increase your value to employers.&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-og-vocabulary field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Session Track:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;div class=&quot;item-list&quot;&gt;&lt;h3&gt;Session Tracks (NERDSummit 2014)&lt;/h3&gt;&lt;ul&gt;&lt;li class=&quot;first last&quot;&gt;&lt;a href=&quot;/session-tracks-nerdsummit-2014/programming&quot;&gt;Programming&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Sessions Topics:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/session-tracks/development&quot;&gt;Development&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker-bio-s- field-type-text-long field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Speaker Bio(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Gaines Kergosien is a senior solutions architect with Vanick Digital and serves as a board member for the Nashville .NET User Group, the INETA Mentor for TN and speaks at software development conferences throughout the United States. With over 12 years in solutions development using Microsoft technologies, his work includes consulting for such companies as Deloitte, Hospital Corporation of America (HCA), American General (AIG), Lexis Nexis, Gibson Guitars, and Cardinal Healthcare.&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 17 Jun 2014 20:52:46 +0000</pubDate>
+ <dc:creator>gaines</dc:creator>
+ <guid isPermaLink="false">135 at http://2016.nerdsummit.org</guid>
+ <comments>http://2016.nerdsummit.org/session/how-be-six-figure-developer#comments</comments>
+</item>
+<item>
+ <title>Managing Asynchronous Control Flow With Promises</title>
+ <link>http://2016.nerdsummit.org/session/managing-asynchronous-control-flow-promises</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;As web applications increasingly move to thick-client JavaScript apps (or node.js backends), web developers are faced with increasing control flow complexity, especially around asynchronous functionality (callback hell). Nested callbacks are difficult to read and write, and maintaining scope within can present a challenge. Promises allow this complexity to be managed in a more readable and intuitive way.
+&lt;br /&gt;
+&lt;br /&gt;
+In this talk I&#039;ll cover the terminology around Promises and demonstrate the implementation of Promises using several of the most popular libraries:
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/kriskowal/q&quot;&gt;Q&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/tildeio/rsvp.js&quot;&gt;RSVP.js&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://api.jquery.com/category/deferred-object/&quot;&gt;jQuery Deferred (a slightly different approach)&lt;/a&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience field-type-list-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Intermediate&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-og-vocabulary field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Session Track:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;div class=&quot;item-list&quot;&gt;&lt;h3&gt;Session Tracks (NERDSummit 2014)&lt;/h3&gt;&lt;ul&gt;&lt;li class=&quot;first last&quot;&gt;&lt;a href=&quot;/session-tracks-nerdsummit-2014/programming&quot;&gt;Programming&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Sessions Topics:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/session-tracks/development&quot;&gt;Development&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker-bio-s- field-type-text-long field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Speaker Bio(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mike Harty is a Senior Consultant at NorthPoint Digital. He has been building websites and web applications for nearly 20 years, and is passionate about delivering clear, concise, and extensible solutions. He has worked with clients including Time Inc, LinkedIn, thePlatform, and NBC Universal.&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 21 May 2014 20:31:19 +0000</pubDate>
+ <dc:creator>mikeharty</dc:creator>
+ <guid isPermaLink="false">128 at http://2016.nerdsummit.org</guid>
+ <comments>http://2016.nerdsummit.org/session/managing-asynchronous-control-flow-promises#comments</comments>
+</item>
+<item>
+ <title>Introduction to Python/Django for Experienced Web Developers</title>
+ <link>http://2016.nerdsummit.org/session/introduction-pythondjango-experienced-web-developers</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Since its release in 2005, Django (&lt;a href=&quot;https://www.djangoproject.com/&quot;&gt;https://www.djangoproject.com/&lt;/a&gt;) has grown to be the leading framework for developing web applications in Python. It is used by major sites such as Pinterest, Instagram, and the Washington Post.&lt;/p&gt;
+&lt;p&gt;This introduction to web programming with Python and Django presumes experience with basic server-side web development principles in any language. The goal is to show how Django delivers solutions to many common problems and needs faced by web developers. It includes a polished, powerful back-end administration application that can be adapted to any project.&lt;/p&gt;
+&lt;p&gt;(Some developers call Python &amp;quot;executable pseudocode,&amp;quot; meaning that it is relatively easy to read even if you haven&amp;#039;t written it before. So if you lack Python experience, don&amp;#039;t fear.)&lt;/p&gt;
+&lt;p&gt;During the session you will also see a simple site developed, from project skeleton to running web application.&lt;/p&gt;
+&lt;p&gt;Two hours.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience field-type-list-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Intermediate&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-timeslot field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Session Time Slot(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;div class=&quot;entity entity-field-collection-item field-collection-item-field-event-timeslots clearfix&quot;&gt;
+  &lt;div class=&quot;content&quot;&gt;
+    &lt;div class=&quot;field field-name-field-timeslot-time field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Time:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sep 12 2014 - 2:00pm-Sep 12 2014 - 3:50pm&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-timeslot-room field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;178&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-timeslot-allowed-types field-type-list-cts field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Allowed Types:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Session&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-og-vocabulary field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Session Track:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;div class=&quot;item-list&quot;&gt;&lt;h3&gt;Session Tracks (NERDSummit 2014)&lt;/h3&gt;&lt;ul&gt;&lt;li class=&quot;first last&quot;&gt;&lt;a href=&quot;/session-tracks-nerdsummit-2014/programming&quot;&gt;Programming&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Sessions Topics:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/session-tracks/development&quot;&gt;Development&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker-bio-s- field-type-text-long field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Speaker Bio(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Paul Bissex is a software developer specializing in Python and Django. He lives in Greenfield.&lt;/p&gt;
+&lt;p&gt;As a technology journalist and commentator, Paul wrote for publications such as Wired, Salon.com, and the Chicago Tribune. Paul is co-author of Python Web Development with Django, a popular book on the leading Python web framework.&lt;/p&gt;
+&lt;p&gt;Paul was previously Director of Software Development at Hallmark Institute of Photography, building both internal web applications and public websites. During that time he also taught web design and marketing skills to approximately 1000 budding professional photographers.&lt;/p&gt;
+&lt;p&gt;Paul works as a software developer for Cox Media Group, on the web/mobile publishing system used by all of CMG&amp;#039;s television/radio/newspaper properties around the country.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 01 May 2014 19:30:08 +0000</pubDate>
+ <dc:creator>Paul Bissex</dc:creator>
+ <guid isPermaLink="false">122 at http://2016.nerdsummit.org</guid>
+ <comments>http://2016.nerdsummit.org/session/introduction-pythondjango-experienced-web-developers#comments</comments>
+</item>
+</channel>
+</rss>

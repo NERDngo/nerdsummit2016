@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2016.nerdsummit.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>New England Regional Developers - Fundamentals</title>
+ <link>http://2016.nerdsummit.org/session-tracks-nerdsummit-2014/fundamentals</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Joomla 101</title>
+ <link>http://2016.nerdsummit.org/nerdsummit-2014/sessions/joomla-101</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;In this informative session, you&amp;#039;ll be introduced to the Joomla! Content Management System through a demonstration style presentation that walks you through the process of setting up a Joomla! site including categories, articles, menu items, modules, and template installation. We&amp;#039;ll review the capabilities of the Joomla! Content Management system along with how to expand its core offerings with proprietary extensions, plugins and modules. Showcase websites will be included to illustrate the capabilities.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience field-type-list-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-timeslot field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Session Time Slot(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;div class=&quot;entity entity-field-collection-item field-collection-item-field-event-timeslots clearfix&quot;&gt;
+  &lt;div class=&quot;content&quot;&gt;
+    &lt;div class=&quot;field field-name-field-timeslot-time field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Time:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sep 12 2014 - 3:00pm-Sep 12 2014 - 3:50pm&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-timeslot-room field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;162-75&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-timeslot-allowed-types field-type-list-cts field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Allowed Types:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Session&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-og-vocabulary field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Session Track:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;div class=&quot;item-list&quot;&gt;&lt;h3&gt;Session Tracks (NERDSummit 2014)&lt;/h3&gt;&lt;ul&gt;&lt;li class=&quot;first last&quot;&gt;&lt;a href=&quot;/session-tracks-nerdsummit-2014/fundamentals&quot;&gt;Fundamentals&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Sessions Topics:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/session-topics/fundamentals&quot;&gt;Fundamentals&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/session-tracks/development&quot;&gt;Development&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker-bio-s- field-type-text-long field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Speaker Bio(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Dawn Russell formed Artisan Web and Print, located in downtown Brattleboro Vermont, in 2010 after completing graduate studies in Web Development at Marlboro Graduate School. She trained extensively with author and Joomla! expert Barrie North for two years before taking over his small hosting company and customer base at My Artisan Web (formerly Simplweb).  Her skills in design were cultivated during her Master&#039;s program at SUNY New Paltz in Fine Art where she took every opportunity to visit museums and design houses in New York City.  It was during this time that she refined her eye, aesthetic and love for design and art.  Her combination of design, business savvy, and technological knowledge provides a unique blend for her clients.&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 27 Aug 2014 17:46:34 +0000</pubDate>
+ <dc:creator>dawn.russell</dc:creator>
+ <guid isPermaLink="false">250 at http://2016.nerdsummit.org</guid>
+ <comments>http://2016.nerdsummit.org/nerdsummit-2014/sessions/joomla-101#comments</comments>
+</item>
+<item>
+ <title>Shaping Your Free Software Project... and the World?</title>
+ <link>http://2016.nerdsummit.org/nerdsummit-2014/sessions/shaping-your-free-software-project-and-world</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;We&#039;ll talk about the fundamentals of participating in Free Software projects and communities, which is why this is in the Fundamentals track, but we&#039;ll also talk about how we as individuals and as groups can shape what our powerful software is built to do— and how we build power through coördination in the context of extreme power inequalities that we, mere web developers and other information technology workers, are well-positioned to change, which is why this could be in the Revolution track, if there was one.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;How Do You Make a Difference?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Challenges you might want to take on and possible courses of action which we&#039;ll discuss include:&lt;/p&gt;
+
+&lt;dl&gt;
+&lt;dt&gt;There&#039;s some feature you want or want to make better:&lt;/dt&gt;
+&lt;dd&gt;Learn, publicize, code, document, coordinate, fund.&lt;/dd&gt;
+
+&lt;dt&gt;Not a proportionate number of contributors to beneficiaries:&lt;/dt&gt;
+&lt;dd&gt;Make involvement more accessible, varied, encouraged.&lt;/dd&gt;
+
+&lt;dt&gt;Contributors to the community good not always secure financially:&lt;/dt&gt;
+&lt;dd&gt;Form coalitions, better passing of work &amp;amp; employment, crowdfunding.&lt;/dd&gt;
+
+&lt;dt&gt;Common needs are going unmet:&lt;/dt&gt;
+&lt;dd&gt;Create a better way to coordinate and contribute.&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;p&gt;Participation in the session (or comments to this post right now) from people seeking an outcome and people who know what your particular software community most wants, and how to engage, &lt;em&gt;very&lt;/em&gt; welcome.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Who Owns Free Software?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;WordPress isn&#039;t owned by Matt Mulenwegg or Automattic and Drupal does not belong to Dries Buytaert or the Drupal Association.  As Free Software released under the &lt;a href=&quot;https://www.gnu.org/licenses/gpl.html&quot;&gt;GPL&lt;/a&gt;, it belongs to you (and every other person who steps up to claim it) equally.&lt;/p&gt;
+
+&lt;p&gt;Free Software is a form of wealth that everyone shares.&lt;/p&gt;
+
+&lt;p&gt;What does it mean to accept this ownership?&lt;/p&gt;
+
+&lt;blockquote&gt;Black Star Co-Op Pub &amp;amp; Brewery [in Austin, Texas] opened doors in the summer of 2010, with a large banner outside reading &quot;Community-Owned Beer.&quot; A consumer cooperative (owned by the community it serves) and also a worker-coop (run by its employees), Black Star is attracting a full house of business seven days a week.&lt;/blockquote&gt;
+
+&lt;cite&gt;From &lt;a href=&quot;http://www.commondreams.org/views/2011/08/26/cooperative-economy-time-now&quot;&gt;A Cooperative Economy&lt;/a&gt; by Carmen Llanes&lt;/cite&gt;
+
+&lt;p&gt;Our banner should be Community-Owned Software.  And we can learn from the co-operative movement, and its acceptance of buyer and worker cooperatives, including hybrids like Black Star.  Both builders of the software and users of the software can step up and claim ownership in different ways.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Why Us?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;It&#039;s time to get involved— and to reap the benefits of participation.  Second-order benefits are &quot;you participate and good things will/may happen as a consequence.&quot;&lt;/p&gt;
+
+&lt;p&gt;First-order benefits are immediate from the act of participating itself.  Nothing big, except by the accumulation of many little things.  Participating makes you better.  These direct benefits are specific to forms of participation so will be discussed along with the ways and means of participating.&lt;/p&gt;
+
+&lt;p&gt;But most of all, shaping a part of the future of our Free Software projects means shaping our own future, and potentially our community and our world&#039;s future.&lt;/p&gt;
+
+&lt;p&gt;If we — workers with direct access to software powering much of the Web and enough time to come to this awesome summit — don&#039;t coordinate to take relatively small and simple collective actions that make our immediate professional environment better, how will we — the broader community of humans on this planet — build the networks and tools needed to stop exploitation, prevent &lt;a href=&quot;http://www.dontshootmo.com/&quot;&gt;violence&lt;/a&gt;, avert or deal with &lt;a href=&quot;http://www.energyjustice.net/&quot;&gt;global warming&lt;/a&gt;, and otherwise move toward justice, liberty, prosperity, and simple survival for all?&lt;/p&gt;
+
+&lt;p&gt;We can do our part simply by figuring out still better and more sustainable ways to make our software and community better— like coming together to add or improve features, support contributors, and meet common needs.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience field-type-list-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Intermediate&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-timeslot field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Session Time Slot(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;div class=&quot;entity entity-field-collection-item field-collection-item-field-event-timeslots clearfix&quot;&gt;
+  &lt;div class=&quot;content&quot;&gt;
+    &lt;div class=&quot;field field-name-field-timeslot-time field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Time:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sep 14 2014 - 1:30pm-Sep 14 2014 - 2:30pm&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-timeslot-room field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;163C&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-timeslot-allowed-types field-type-list-cts field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Allowed Types:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Session&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-og-vocabulary field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Session Track:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;div class=&quot;item-list&quot;&gt;&lt;h3&gt;Session Tracks (NERDSummit 2014)&lt;/h3&gt;&lt;ul&gt;&lt;li class=&quot;first last&quot;&gt;&lt;a href=&quot;/session-tracks-nerdsummit-2014/fundamentals&quot;&gt;Fundamentals&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Sessions Topics:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/session-topics/fundamentals&quot;&gt;Fundamentals&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/session-tracks/strategy&quot;&gt;Strategy&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/session-tracks/code-change&quot;&gt;Code for Change&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker-bio-s- field-type-text-long field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Speaker Bio(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Benjamin Melançon (mlncn) lives and works to connect ideas, resources, and people to help us all gain as much power possible over our own lives.&lt;/p&gt;
+
+&lt;p&gt;He re-found Drupal in 2006 and co-founded &lt;a href=&quot;http://agaric.com/&quot;&gt;Agaric&lt;/a&gt;, a web development and consulting collective which helps people create and use powerful Internet technology, in the same year.  He remains a principal of Agaric and an advocate of worker co-operatives.  Recently, as CTO of Activore (building communities supportive of better health and fitness) he had the opportunity to play with many non-Drupal technologies.  This led to the formation of a &lt;a href=&quot;http://spry-group.com/&quot;&gt;Spry Group&lt;/a&gt; and Agaric joint venture, &lt;a href=&quot;http://imagescale.co/&quot;&gt;ImageScale&lt;/a&gt;, to bring the goodness of Drupal&#039;s imagecache approach to everyone.&lt;/p&gt;
+
+&lt;p&gt;Probably best known in the Drupal community for posting problems he runs into (and occasionally solutions he stumbles over) to &lt;a href=&quot;http://data.agaric.com/&quot;&gt;data.agaric.com&lt;/a&gt;, this somehow to have led to writing, joined by three dozen authors, &lt;a href=&quot;http://definitivedrupal.org/&quot;&gt;The Definitive Guide to Drupal 7&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Currently in his non-existent spare time Ben pushes the &lt;a href=&quot;http://visionsunite.org/snowball&quot;&gt;Snowball initiative&lt;/a&gt; to create a user-need-led collaborative funding platform for Drupal projects.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 16 Aug 2014 04:00:49 +0000</pubDate>
+ <dc:creator>mlncn</dc:creator>
+ <guid isPermaLink="false">225 at http://2016.nerdsummit.org</guid>
+ <comments>http://2016.nerdsummit.org/nerdsummit-2014/sessions/shaping-your-free-software-project-and-world#comments</comments>
+</item>
+<item>
+ <title>Setup Rails and build Twitter!</title>
+ <link>http://2016.nerdsummit.org/nerdsummit-2014/sessions/setup-rails-and-build-twitter</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;In this track, learners will learn about the basics of the Rails 4 environment and learn how to set it up for development and build an app that works just like twitter! We will deploy our apps to heroku to share with our friends. I will also share more resources for learning.&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience field-type-list-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-timeslot field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Session Time Slot(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;div class=&quot;entity entity-field-collection-item field-collection-item-field-event-timeslots clearfix&quot;&gt;
+  &lt;div class=&quot;content&quot;&gt;
+    &lt;div class=&quot;field field-name-field-timeslot-time field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Time:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sep 12 2014 - 2:00pm-Sep 12 2014 - 2:50pm&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-timeslot-room field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;162-75&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-timeslot-allowed-types field-type-list-cts field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Allowed Types:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Session&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-og-vocabulary field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Session Track:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;div class=&quot;item-list&quot;&gt;&lt;h3&gt;Session Tracks (NERDSummit 2014)&lt;/h3&gt;&lt;ul&gt;&lt;li class=&quot;first last&quot;&gt;&lt;a href=&quot;/session-tracks-nerdsummit-2014/fundamentals&quot;&gt;Fundamentals&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Sessions Topics:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/session-tracks/development&quot;&gt;Development&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-requested-session field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Requested Session:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/request/beginner-training-cms-installs-modulepluginstheme-installs-basic-config&quot;&gt;Beginner training: CMS installs, Module/Plugins/Theme installs, Basic Config&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 15 Aug 2014 21:54:28 +0000</pubDate>
+ <dc:creator>khadijahthegreat</dc:creator>
+ <guid isPermaLink="false">210 at http://2016.nerdsummit.org</guid>
+ <comments>http://2016.nerdsummit.org/nerdsummit-2014/sessions/setup-rails-and-build-twitter#comments</comments>
+</item>
+<item>
+ <title>Sass Primer: CSS Pixie Dust</title>
+ <link>http://2016.nerdsummit.org/nerdsummit-2014/sessions/sass-primer-css-pixie-dust</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;If you&#039;ve made a website lately, you&#039;ve used CSS. If you&#039;ve used CSS there&#039;s probably a head-sized dent in the wall near your desk! Sass is an amazingly useful CSS pre-processor that brings a suite of programmatic tools such as variables, operators and functions to your CSS. It helps you keep your style code tidy and dry by letting you nest styles inside the selectors to which they apply, and break your styles into logically organized partial files among other wonders. Sass is a powerful tool, meaning if you&#039;re not careful it can help you to implement bad choices on a huge scale, so we&#039;ll also cover how to use CSS and Sass responsibly.&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience field-type-list-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Intermediate&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-og-vocabulary field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Session Track:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;div class=&quot;item-list&quot;&gt;&lt;h3&gt;Session Tracks (NERDSummit 2014)&lt;/h3&gt;&lt;ul&gt;&lt;li class=&quot;first last&quot;&gt;&lt;a href=&quot;/session-tracks-nerdsummit-2014/fundamentals&quot;&gt;Fundamentals&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Sessions Topics:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/session-topics/fundamentals&quot;&gt;Fundamentals&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/session-tracks/design&quot;&gt;Design&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/session-tracks/development&quot;&gt;Development&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 30 Jul 2014 16:25:35 +0000</pubDate>
+ <dc:creator>donmateo</dc:creator>
+ <guid isPermaLink="false">183 at http://2016.nerdsummit.org</guid>
+ <comments>http://2016.nerdsummit.org/nerdsummit-2014/sessions/sass-primer-css-pixie-dust#comments</comments>
+</item>
+<item>
+ <title>Intro to HTML/CSS</title>
+ <link>http://2016.nerdsummit.org/nerdsummit-2014/sessions/intro-htmlcss</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;HTML and CSS are sibling markup languages that every web site is built with. HTML serves as the structure, with CSS adding style. If you think of a house, HTML would be the foundation, the walls, the doors…and CSS would be the paint color, the light fixtures, the curtains, etc.
+
+&amp;nbsp;
+
+In this session, we’ll have a crash course on the basics to put together a web page with HTML and CSS:
+
+
+&lt;ul&gt;
+	&lt;li&gt;Tools for writing your code&lt;/li&gt;
+	&lt;li&gt;Working with HTML tags like headings, lists, images, links&lt;/li&gt;
+	&lt;li&gt;Adding style with CSS&lt;/li&gt;
+	&lt;li&gt;Getting your work online&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience field-type-list-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-timeslot field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Session Time Slot(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;div class=&quot;entity entity-field-collection-item field-collection-item-field-event-timeslots clearfix&quot;&gt;
+  &lt;div class=&quot;content&quot;&gt;
+    &lt;div class=&quot;field field-name-field-timeslot-time field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Time:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sep 12 2014 - 9:00am-Sep 12 2014 - 9:50am&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-timeslot-room field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;177&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-timeslot-allowed-types field-type-list-cts field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Allowed Types:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Session&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-og-vocabulary field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Session Track:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;div class=&quot;item-list&quot;&gt;&lt;h3&gt;Session Tracks (NERDSummit 2014)&lt;/h3&gt;&lt;ul&gt;&lt;li class=&quot;first last&quot;&gt;&lt;a href=&quot;/session-tracks-nerdsummit-2014/fundamentals&quot;&gt;Fundamentals&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Sessions Topics:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/session-topics/fundamentals&quot;&gt;Fundamentals&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 30 Jul 2014 15:45:54 +0000</pubDate>
+ <dc:creator>Susan Buck</dc:creator>
+ <guid isPermaLink="false">181 at http://2016.nerdsummit.org</guid>
+ <comments>http://2016.nerdsummit.org/nerdsummit-2014/sessions/intro-htmlcss#comments</comments>
+</item>
+<item>
+ <title>Friday Keynote: Susan Buck, &quot;So you want to be a developer...&quot;</title>
+ <link>http://2016.nerdsummit.org/nerdsummit-2014/sessions/friday-keynote-susan-buck-so-you-want-be-developer</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p dir=&quot;ltr&quot;&gt;As an instructor with the &lt;a href=&quot;http://thewc.co/&quot; target=&quot;_blank&quot;&gt;Women&#039;s Coding Collective&lt;/a&gt;, at the Harvard Extension School, and Wellesley College, I spend a lot of time teaching people how to code. As one would expect, this invariably leads to lots of calls for advice from students: How do I get started in this field?&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;In this keynote, I&#039;ll walk through the advice I typically give when faced with this very good question.&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;Key points:&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li dir=&quot;ltr&quot;&gt;
+	&lt;p dir=&quot;ltr&quot;&gt;Understanding what developers do&lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li dir=&quot;ltr&quot;&gt;
+	&lt;p dir=&quot;ltr&quot;&gt;Deciding the kind of work you want to do and the kind of work environment you want&lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li dir=&quot;ltr&quot;&gt;
+	&lt;p dir=&quot;ltr&quot;&gt;Choosing where to learn&lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li dir=&quot;ltr&quot;&gt;
+	&lt;p dir=&quot;ltr&quot;&gt;Building your own portfolio&lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li dir=&quot;ltr&quot;&gt;
+	&lt;p dir=&quot;ltr&quot;&gt;Getting jobs and/or clients&lt;/p&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience field-type-list-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-timeslot field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Session Time Slot(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;div class=&quot;entity entity-field-collection-item field-collection-item-field-event-timeslots clearfix&quot;&gt;
+  &lt;div class=&quot;content&quot;&gt;
+    &lt;div class=&quot;field field-name-field-timeslot-time field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Time:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sep 12 2014 - 4:00pm-Sep 12 2014 - 5:00pm&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-timeslot-room field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;163C&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-timeslot-allowed-types field-type-list-cts field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Allowed Types:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Session&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-og-vocabulary field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Session Track:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;div class=&quot;item-list&quot;&gt;&lt;h3&gt;Session Tracks (NERDSummit 2014)&lt;/h3&gt;&lt;ul&gt;&lt;li class=&quot;first last&quot;&gt;&lt;a href=&quot;/session-tracks-nerdsummit-2014/fundamentals&quot;&gt;Fundamentals&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Sessions Topics:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/session-topics/fundamentals&quot;&gt;Fundamentals&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/session-tracks/strategy&quot;&gt;Strategy&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker-bio-s- field-type-text-long field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Speaker Bio(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;line-height: 1.6em;&quot;&gt;Susan Buck is a programmer, designer, and educator with over 15 years of web development experience, starting with her education in digital media at NYU&#039;s Interactive Telecommunication Program and UNC Asheville&#039;s New Media program.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style=&quot;font-size: 13px;&quot;&gt;Most recently, Susan co-founded the&amp;nbsp;&lt;a href=&quot;http://thewc.co/&quot;&gt;Women&#039;s Coding Collective&lt;/a&gt;, an educational initiative aimed at helping more women excel in programming and web development. While working on the WCC, Susan also teaches Dynamic Web Applications with the Harvard Extension School and Harvard Summer School.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 15 Jul 2014 15:44:41 +0000</pubDate>
+ <dc:creator>Susan Buck</dc:creator>
+ <guid isPermaLink="false">162 at http://2016.nerdsummit.org</guid>
+ <comments>http://2016.nerdsummit.org/nerdsummit-2014/sessions/friday-keynote-susan-buck-so-you-want-be-developer#comments</comments>
+</item>
+</channel>
+</rss>

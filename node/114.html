@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr"><!--<![endif]-->
+
+<head>
+  <meta charset="utf-8" />
+<link href="../sites/all/themes/nerdsummit/apple-touch-icon.png" rel="apple-touch-icon-precomposed" sizes="72x72" />
+<link href="../sites/all/themes/nerdsummit/apple-touch-icon.png" rel="apple-touch-icon-precomposed" sizes="114x114" />
+<link href="../sites/all/themes/nerdsummit/apple-touch-icon.png" rel="apple-touch-icon-precomposed" sizes="144x144" />
+<link href="../sites/all/themes/nerdsummit/apple-touch-icon.png" rel="apple-touch-icon-precomposed" sizes="57x57" />
+<link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="../session/finding-php-problems-tools-xdebug.html" />
+<link rel="shortlink" href="114.html" />
+<link rel="shortcut icon" href="../sites/default/files/nerd-favicon-64_1.png" type="image/png" />
+  <title>Finding PHP problems with tools like Xdebug | New England Regional Developers</title>
+
+      <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="cleartype" content="on">
+
+  <link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_791YXBaKKm1ORM_7huSKEsIV9tSWq6wmRkERhuXpN6w.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_zH6Oph0z7DR6FJF3iW1lofAMrUzLNbPTsHRrdq6LFh8.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_57eqWFR-ZNyzI-FtG4MLgJl_P-IlZd9TCkwE5x-WrdU.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_QCyzfiYARhkLaDkDc1TlSCRhdmmsuNVKWLbsAMA0uoM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_u6jM04wNxR5YXWOUPAG48aJqEJqk21nQ8-txBljrbM0.css" media="all and (min-width: 740px)" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_eCqxNiqhc1nCHGcGh-TdIcSz8SP8USzq8UbZcODYK5Q.css" media="all" />
+  <script src="../sites/default/files/js/js_-z-2lAhufzBeVjYseT6cTzSICUy9vnoLBpu1sF_zZrs.js"></script>
+<script src="../sites/default/files/js/js_1K2iIQwhQJGxS9xTdaM8RQYqYAied8RvG95RlXay5EU.js"></script>
+<script src="../sites/default/files/js/js_COMsmDyrY9mzVU28X2uGvF4Ba3vd5eTo5xEO7dvCUZM.js"></script>
+<script src="../sites/default/files/js/js_bUOfy2mErhVWNtchWXNvBDtSbkc5YXGA-nd_1zSegM4.js"></script>
+<script>var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-48293052-1"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();</script>
+<script src="../sites/default/files/js/js_McyQSqiswAu2YkWIHbfhk6FCOe5oGmA3p9tL3W2knvk.js"></script>
+<script src="../sites/default/files/js/js_FhMgZkUmDNYsddFhNhu66f3-OSsXX6QFCBYkZB5_2Tg.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"nerdsummit","theme_token":"6nbX0z2_MrtAavmS5PqwbfcE2p2CbP6dxokyb61VLBU","jquery_version":"1.8","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/comment_notify\/comment_notify.js":1,"profiles\/cod\/modules\/contrib\/views\/js\/base.js":1,"misc\/progress.js":1,"profiles\/cod\/modules\/contrib\/views\/js\/ajax_view.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"profiles\/cod\/modules\/contrib\/field_group\/field_group.js":1,"sites\/all\/themes\/nerdsummit\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/comment_notify\/comment_notify.css":1,"modules\/comment\/comment.css":1,"profiles\/cod\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/cod\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/cod\/modules\/contrib\/views\/css\/views.css":1,"profiles\/cod\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"profiles\/cod\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/cod\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/cod\/modules\/contrib\/field_group\/field_group.css":1,"sites\/all\/themes\/zen\/system.menus.css":1,"sites\/all\/themes\/nerdsummit\/fonts\/css\/fontello.css":1,"sites\/all\/themes\/nerdsummit\/css\/layout.css":1,"sites\/all\/themes\/nerdsummit\/css\/style.css":1,"sites\/all\/themes\/nerdsummit\/css\/styles.css":1,"sites\/all\/themes\/nerdsummit\/css\/layout.wide.css":1,"sites\/all\/themes\/nerdsummit\/css\/style.wide.css":1,"public:\/\/css_injector\/css_injector_2.css":1,"public:\/\/css_injector\/css_injector_3.css":1,"public:\/\/css_injector\/css_injector_4.css":1,"public:\/\/css_injector\/css_injector_5.css":1}},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:aa029b313e7d559689b6ff45df2f13eb":{"view_name":"nerd_sponsors","view_display_id":"block_1","view_args":"","view_path":"node\/114","view_base_path":"support","view_dom_id":"aa029b313e7d559689b6ff45df2f13eb","pager_element":0},"views_dom_id:4d9c86f0c6ed37818931b29c01c25149":{"view_name":"nerd_sponsors","view_display_id":"block_2","view_args":"","view_path":"node\/114","view_base_path":"support","view_dom_id":"4d9c86f0c6ed37818931b29c01c25149","pager_element":0}}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"field_group":{"hidden":"full"},"ogContext":{"groupType":"node","gid":"1"}});</script>
+      <!--[if lt IE 9]>
+    <script src="/sites/all/themes/zen/js/html5-respond.js"></script>
+    <![endif]-->
+  </head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-114 node-type-session og-context og-context-node og-context-node-1 section-session" >
+      <p id="skip-link">
+      <a href="114.html#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </p>
+      
+<div id="page">
+
+  <header class="header" id="header" role="banner">
+
+    <div id="header-top">
+              <a href="../index.html" title="Home" rel="home" class="header__logo" id="logo"><img src="../sites/all/themes/nerdsummit/logo.png" alt="Home" class="header__logo-image" /></a>
+      
+      <div id="social-media-links">
+        <ul>
+          <li><a href="https://twitter.com/NERDSummit" class="icon-twitter" target="_blank"></a></li>
+          <li><a href="https://www.facebook.com/nerdsummit" class="icon-facebook" target="_blank"></a></li>
+          <li><a href="https://plus.google.com/communities/116894398989164774421" class="icon-gplus" target="_blank"></a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div id="header-bottom">
+              <div class="header__name-and-slogan" id="name-and-slogan">
+                      <h1 class="header__site-name" id="site-name">
+              <a href="../index.html" title="Home" class="header__site-link" rel="home"><span>New England Regional Developers</span></a>
+            </h1>
+          
+                  </div>
+            <div id="hamburger-wrap" class="hamburger-wrap menu-hidden">
+        <div class="bun-top hamburger-part"></div>
+        <div class="patty hamburger-part"></div>
+        <div class="bun-bottom hamburger-part"></div>
+        <div class="hamburger-text">Menu</div>
+      </div>
+      <div id="navigation">
+          <div class="region region-navigation">
+    <div id="block-menu-block-top-level-nav" class="block block-menu-block first odd" role="navigation">
+
+      
+  <div class="menu-block-wrapper menu-block-top_level_nav menu-name-menu-secondary-navigation parent-mlid-0 menu-level-1">
+  <ul class="menu"><li  class="menu__item is-leaf first leaf menu-mlid-1236 learn"><a href="../learn.html" class="menu__link">Learn</a></li>
+<li  class="menu__item is-leaf leaf menu-mlid-1461 teach"><a href="../teach.html" title="" class="menu__link">Teach</a></li>
+<li  class="menu__item is-leaf leaf menu-mlid-1237 support"><a href="../support.html" class="menu__link">Support</a></li>
+<li  class="menu__item is-leaf last leaf menu-mlid-1462 summit"><a href="../2015.html" title="" class="menu__link">Summit</a></li>
+</ul></div>
+
+</div>
+<div id="block-system-main-menu" class="block block-system block-menu last even" role="navigation">
+
+      
+  <ul class="menu"><li  class="menu__item is-leaf first leaf 2014"><a href="../nerdsummit-2014/index.html" title="" class="menu__link">2014</a></li>
+<li  class="menu__item is-leaf leaf 2015"><a href="../2015/program.html" title="" class="menu__link">2015</a></li>
+<li  class="menu__item is-leaf leaf 2016"><a href="../2016.html" class="menu__link">2016</a></li>
+<li  class="menu__item is-leaf last leaf about"><a href="../about/mission.html" class="menu__link">About</a></li>
+</ul>
+</div>
+  </div>
+      </div>
+
+
+      
+      
+    </div>
+
+
+  </header>
+    <div id="banner_area">
+            </div>
+  <div id="main">
+
+    <div id="content" class="column" role="main">
+
+                  <a id="main-content"></a>
+                    <h1 class="page__title title" id="page-title">Finding PHP problems with tools like Xdebug</h1>
+                                          
+
+
+<article class="node-114 node node-session view-mode-full clearfix">
+
+  
+  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Have you ever run into PHP Fatal errors such as "Unsupported Operand Type" or "Cannot use object of type stdClass as array", or maybe one page is just horrendously slow and you just can't figure out where the problem lies? Or even more important, how to fix it?</p>
+
+<p>Sometimes finding the problem is not just half the battle, but the entire conflict. There are many techniques you can use to track down these bugs and some of the more popular names (xdebug, xhprof, and even drupal_watchdog) are tools that as developers beginning to get involved hear and assume are for the "others", the advanced level programmers who are humming along and fine tuning everything.</p>
+
+<p>There are techniques and solutions for finding that needle in a haystack and I'll describe and demonstrate the most common that I use and we can talk about the most helpful techniques that you use.</p></div></div></div><div class="field field-name-field-slides field-type-file field-label-inline clearfix"><div class="field-label">Slides:&nbsp;</div><div class="field-items"><div class="field-item even"><span class="file"><img class="file-icon" alt="" title="application/pdf" src="http://2016.nerdsummit.org/modules/file/icons/application-pdf.png" /> <a href="../sites/default/files/slides/Finding_PHP_problems_Xdebug.pdf" type="application/pdf; length=126241">Finding_PHP_problems_Xdebug.pdf</a></span></div></div></div><div class="field field-name-field-experience field-type-list-text field-label-inline clearfix"><div class="field-label">Experience level:&nbsp;</div><div class="field-items"><div class="field-item even">Beginner</div></div></div><div class="field field-name-field-session-timeslot field-type-entityreference field-label-above"><div class="field-label">Session Time Slot(s):&nbsp;</div><div class="field-items"><div class="field-item even"><div class="entity entity-field-collection-item field-collection-item-field-event-timeslots clearfix">
+  <div class="content">
+    <div class="field field-name-field-timeslot-time field-type-entityreference field-label-above"><div class="field-label">Time:&nbsp;</div><div class="field-items"><div class="field-item even">Sep 12 2014 - 3:00pm-Sep 12 2014 - 3:50pm</div></div></div><div class="field field-name-field-timeslot-room field-type-entityreference field-label-above"><div class="field-label">Room:&nbsp;</div><div class="field-items"><div class="field-item even">177</div></div></div><div class="field field-name-field-timeslot-allowed-types field-type-list-cts field-label-above"><div class="field-label">Allowed Types:&nbsp;</div><div class="field-items"><div class="field-item even">Session</div></div></div>  </div>
+</div>
+</div></div></div><div class="field field-name-og-vocabulary field-type-entityreference field-label-above"><div class="field-label">Session Track:&nbsp;</div><div class="field-items"><div class="field-item even"><div class="item-list"><h3>Session Tracks (NERDSummit 2014)</h3><ul><li class="first last"><a href="../session-tracks-nerdsummit-2014/programming.html">Programming</a></li>
+</ul></div></div></div></div><div class="field field-name-field-session-track field-type-taxonomy-term-reference field-label-above"><div class="field-label">Sessions Topics:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="../session-tracks/development.html">Development</a></div></div></div><div class="field field-name-field-speaker-bio-s- field-type-text-long field-label-above"><div class="field-label">Speaker Bio(s):&nbsp;</div><div class="field-items"><div class="field-item even">I am a support engineer and manager at Acquia and my passion lies in teach folks how to do things. I have been working in Drupal for 7 years and mentoring and helping folks learn for a lot longer.</div></div></div><div class="field field-name-field-requested-session field-type-entityreference field-label-inline clearfix"><div class="field-label">Requested Session:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="../request/xdebug.html">xdebug</a></div></div></div>
+  <ul class="links inline"><li class="comment_forbidden log-in-to-post-comments first last"><span><a href="../user/login%3Fdestination=node%252F114%23comment-form.html">Log in</a> to post comments</span></li>
+</ul>
+  
+</article>
+          </div>
+
+    
+          <aside class="sidebars">
+                  <section class="region region-sidebar-second column sidebar">
+    <div id="block-system-user-menu" class="block block-system block-menu first odd" role="navigation">
+
+        <h2 class="block__title block-title">User menu</h2>
+    
+  <ul class="menu"><li  class="menu__item is-leaf first leaf get-tickets"><a href="../2015.html" title="" class="menu__link">Get Tickets!</a></li>
+<li  class="menu__item is-leaf leaf list-of-proposed-sessions"><a href="../2015/program/sessions.html" title="" class="menu__link">List of Proposed Sessions</a></li>
+<li  class="menu__item is-leaf last leaf my-cart"><a href="../cart.html" title="" class="menu__link">My Cart</a></li>
+</ul>
+</div>
+<div id="block-nerd-blocks-nerd-save-date" class="block block-nerd-blocks last even">
+
+        <h2 class="block__title block-title">Save the Date</h2>
+    
+  <div class="nerd-sign-up-content">
+  <h4>Spring 2017</h4>
+  <img src="../sites/all/modules/nerd_blocks/img/nerd_img.png" alt="Nerd Summit - UMASS Amherst" />  <p>Learn with us at a free conference of talks, workshops, coding challenges, food and fun!</p>
+  <a href="http://2016.nerdsummit.org/loop" class="purple-button">Stay in the Loop!</a>  <a href="http://2016.nerdsummit.org/user/register" class="purple-button">Join NERDs</a></div>
+
+</div>
+  </section>
+      </aside>
+    
+  </div>
+
+    <footer id="footer" class="region region-footer">
+    <div id="block-views-nerd-sponsors-block-1" class="block block-views first odd">
+
+        <h2 class="block__title block-title">Sponsors</h2>
+    
+  <div class="view view-nerd-sponsors view-id-nerd_sponsors view-display-id-block_1 static-sponsors-block view-dom-id-aa029b313e7d559689b6ff45df2f13eb">
+            <div class="view-header">
+      <a href="../support.html" class="button">See All</a>
+<a href="../sponsors-information.html" class="button">Sponsorship Info</a>    </div>
+  
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-field-sponsor-logo">        <div class="field-content"><a href="../2015/sponsors/last-call-media.html"><img src="../sites/default/files/styles/medium/public/LCM-light2-trans_0.png%3Fitok=YYmItNR-" width="320" height="320" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../2015/sponsors/last-call-media.html">Last Call Media</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even views-row-last">
+      
+  <div class="views-field views-field-field-sponsor-logo">        <div class="field-content"><a href="../2015/sponsors/massmutual.html"><img src="../sites/default/files/styles/medium/public/image_0.jpg%3Fitok=HrNBBvj1" width="320" height="320" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../2015/sponsors/massmutual.html">MassMutual</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</div>
+<div id="block-views-nerd-sponsors-block-2" class="block block-views even">
+
+      
+  <div class="view view-nerd-sponsors view-id-nerd_sponsors view-display-id-block_2 rotating-sponsors-block view-dom-id-4d9c86f0c6ed37818931b29c01c25149">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-sponsor-logo">        <div class="field-content"><a href="../sponsor/sweet-and-fizzy.html"><img src="../sites/default/files/styles/medium/public/snf-sm.png%3Fitok=0-5wpm7q" width="320" height="320" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../sponsor/sweet-and-fizzy.html">Sweet and Fizzy</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</div>
+<div id="block-block-3" class="block block-block odd">
+
+      
+  <p>© 2016&nbsp;New England Regional Developers</p>
+
+</div>
+<div id="block-block-6" class="block block-block last even">
+
+      
+  <p><a href="../summits/code-conduct.html">NERDSummit Code of Conduct</a></p>
+
+</div>
+  </footer>
+
+</div>
+
+  </body>
+</html>

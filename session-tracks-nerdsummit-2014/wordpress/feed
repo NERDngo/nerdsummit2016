@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2016.nerdsummit.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>New England Regional Developers - WordPress</title>
+ <link>http://2016.nerdsummit.org/session-tracks-nerdsummit-2014/wordpress</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>WordPress and the Command Line</title>
+ <link>http://2016.nerdsummit.org/nerdsummit-2014/sessions/wordpress-and-command-line</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;How to use &lt;a href=&quot;http://wp-cli.org/&quot;&gt;WP-CLI&lt;/a&gt; to manage your WordPress site via the command line. &lt;/p&gt;
+
+&lt;p&gt;This session will cover the basic commands for managing your site, including why you&#039;d want to do so. I&#039;ll also go over extending WP-CLI with your own custom commands, so you can bring the convenience of command line into your plugins and themes. Lastly, I&#039;ll talk about how this can be used for automating setup and migrations.&lt;/p&gt;
+
+&lt;p&gt;This session is for: people comfortable with the command line&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience field-type-list-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Intermediate&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-timeslot field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Session Time Slot(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;div class=&quot;entity entity-field-collection-item field-collection-item-field-event-timeslots clearfix&quot;&gt;
+  &lt;div class=&quot;content&quot;&gt;
+    &lt;div class=&quot;field field-name-field-timeslot-time field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Time:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sep 13 2014 - 3:00pm-Sep 13 2014 - 3:50pm&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-timeslot-room field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;174-76&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-timeslot-allowed-types field-type-list-cts field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Allowed Types:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Session&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-og-vocabulary field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Session Track:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;div class=&quot;item-list&quot;&gt;&lt;h3&gt;Session Tracks (NERDSummit 2014)&lt;/h3&gt;&lt;ul&gt;&lt;li class=&quot;first last&quot;&gt;&lt;a href=&quot;/session-tracks-nerdsummit-2014/wordpress&quot;&gt;WordPress&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Sessions Topics:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/session-tracks/development&quot;&gt;Development&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/session-tracks/devops&quot;&gt;DevOps&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/wordpress&quot;&gt;WordPress&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker-bio-s- field-type-text-long field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Speaker Bio(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Kelly Dwan is a full-stack  WordPress developer. She has worked on everything from small business websites, to higher education, to enterprise and big media. In her spare time, Kelly develops WordPress themes and contributes to WordPress core.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 15 Aug 2014 18:27:20 +0000</pubDate>
+ <dc:creator>ryelle</dc:creator>
+ <guid isPermaLink="false">202 at http://2016.nerdsummit.org</guid>
+ <comments>http://2016.nerdsummit.org/nerdsummit-2014/sessions/wordpress-and-command-line#comments</comments>
+</item>
+<item>
+ <title>Modern WordPress Development Workflow</title>
+ <link>http://2016.nerdsummit.org/nerdsummit-2014/sessions/modern-wordpress-development-workflow</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;WordPress is well known for its user friendliness, but it&#039;s often not seen as very developer friendly. Out of the box, it doesn&#039;t necessarily promote modern, stable development practices, but that doesn&#039;t mean you can&#039;t bring these techniques and approaches to WordPress. This talk outlines one possible deployment workflow while covering the basic concepts of development/staging/production environments, version control and a few command line tools. We&#039;ll cover database migrations and keeping dependencies (like plugins, themes, and WordPress itself) up to date. Familiarity with using the terminal will be assumed, and it will be helpful if you already have WP-CLI and Composer running in your local environment.&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience field-type-list-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Intermediate&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-og-vocabulary field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Session Track:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;div class=&quot;item-list&quot;&gt;&lt;h3&gt;Session Tracks (NERDSummit 2014)&lt;/h3&gt;&lt;ul&gt;&lt;li class=&quot;first last&quot;&gt;&lt;a href=&quot;/session-tracks-nerdsummit-2014/wordpress&quot;&gt;WordPress&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Sessions Topics:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/session-tracks/development&quot;&gt;Development&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/session-tracks/devops&quot;&gt;DevOps&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/wordpress&quot;&gt;WordPress&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 30 Jul 2014 16:00:27 +0000</pubDate>
+ <dc:creator>donmateo</dc:creator>
+ <guid isPermaLink="false">182 at http://2016.nerdsummit.org</guid>
+ <comments>http://2016.nerdsummit.org/nerdsummit-2014/sessions/modern-wordpress-development-workflow#comments</comments>
+</item>
+<item>
+ <title>WordPress 101</title>
+ <link>http://2016.nerdsummit.org/session/wordpress-101</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;This is a beginner&#039;s WordPress overview that teaches students how to setup and manage a basic, self-hosted WordPress website.  The course covers the following:
+
+-What is WordPress?  Choosing a host &amp;amp; Installing WordPress
+-Overview of the Dashboard and editors; publishing your first post
+-Selecting, installing, tweaking a theme
+-Managing Pages, Custom menus, and moderating comments
+-Plugins - installing, activating, using; overview of Jetpack plugin and features, overview of other popular plugins and how to use
+-Adding/managing picture galleries, video, and sound
+-Working with multiple authors &amp;amp; contributors
+-Promoting your site &amp;amp; analyzing statistics, basic SEO for Wordpress&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience field-type-list-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-og-vocabulary field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Session Track:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;div class=&quot;item-list&quot;&gt;&lt;h3&gt;Session Tracks (NERDSummit 2014)&lt;/h3&gt;&lt;ul&gt;&lt;li class=&quot;first last&quot;&gt;&lt;a href=&quot;/session-tracks-nerdsummit-2014/wordpress&quot;&gt;WordPress&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Sessions Topics:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/wordpress&quot;&gt;WordPress&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker-bio-s- field-type-text-long field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Speaker Bio(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Clint Warren is the founder of Illuminate WP and Stacked Agency.  He is the lead organizer for WordCamp Connecticut, co-organizer of WordPress Stamford and WordPress New Haven Meetup groups, and vice president of Westport Entrepreneurs.&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 16 May 2014 01:29:14 +0000</pubDate>
+ <dc:creator>ClintonWarren</dc:creator>
+ <guid isPermaLink="false">125 at http://2016.nerdsummit.org</guid>
+ <comments>http://2016.nerdsummit.org/session/wordpress-101#comments</comments>
+</item>
+</channel>
+</rss>

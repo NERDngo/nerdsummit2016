@@ -1,0 +1,464 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr"><!--<![endif]-->
+
+<head>
+  <meta charset="utf-8" />
+<link href="../sites/all/themes/nerdsummit/apple-touch-icon.png" rel="apple-touch-icon-precomposed" sizes="72x72" />
+<link href="../sites/all/themes/nerdsummit/apple-touch-icon.png" rel="apple-touch-icon-precomposed" sizes="114x114" />
+<link href="../sites/all/themes/nerdsummit/apple-touch-icon.png" rel="apple-touch-icon-precomposed" sizes="144x144" />
+<link href="../sites/all/themes/nerdsummit/apple-touch-icon.png" rel="apple-touch-icon-precomposed" sizes="57x57" />
+<link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="../nerdsummit-2015/sessions/html5-mobile-app-development-phonegap.html" />
+<link rel="shortlink" href="2050.html" />
+<link rel="shortcut icon" href="../sites/default/files/nerd-favicon-64_1.png" type="image/png" />
+  <title>HTML5 Mobile App Development with PhoneGap | New England Regional Developers</title>
+
+      <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="cleartype" content="on">
+
+  <link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_791YXBaKKm1ORM_7huSKEsIV9tSWq6wmRkERhuXpN6w.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_zH6Oph0z7DR6FJF3iW1lofAMrUzLNbPTsHRrdq6LFh8.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_57eqWFR-ZNyzI-FtG4MLgJl_P-IlZd9TCkwE5x-WrdU.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_QCyzfiYARhkLaDkDc1TlSCRhdmmsuNVKWLbsAMA0uoM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_u6jM04wNxR5YXWOUPAG48aJqEJqk21nQ8-txBljrbM0.css" media="all and (min-width: 740px)" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_eCqxNiqhc1nCHGcGh-TdIcSz8SP8USzq8UbZcODYK5Q.css" media="all" />
+  <script src="../sites/default/files/js/js_-z-2lAhufzBeVjYseT6cTzSICUy9vnoLBpu1sF_zZrs.js"></script>
+<script src="../sites/default/files/js/js_1K2iIQwhQJGxS9xTdaM8RQYqYAied8RvG95RlXay5EU.js"></script>
+<script src="../sites/default/files/js/js_COMsmDyrY9mzVU28X2uGvF4Ba3vd5eTo5xEO7dvCUZM.js"></script>
+<script src="../sites/default/files/js/js_bUOfy2mErhVWNtchWXNvBDtSbkc5YXGA-nd_1zSegM4.js"></script>
+<script>var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-48293052-1"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();</script>
+<script src="../sites/default/files/js/js_McyQSqiswAu2YkWIHbfhk6FCOe5oGmA3p9tL3W2knvk.js"></script>
+<script src="../sites/default/files/js/js_FhMgZkUmDNYsddFhNhu66f3-OSsXX6QFCBYkZB5_2Tg.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"nerdsummit","theme_token":"7kgS2ulF-8n7kInkYNaGJBYd5CleEvOWKTtRUJ2eIxM","jquery_version":"1.8","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/comment_notify\/comment_notify.js":1,"profiles\/cod\/modules\/contrib\/views\/js\/base.js":1,"misc\/progress.js":1,"profiles\/cod\/modules\/contrib\/views\/js\/ajax_view.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"profiles\/cod\/modules\/contrib\/field_group\/field_group.js":1,"sites\/all\/themes\/nerdsummit\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/comment_notify\/comment_notify.css":1,"modules\/comment\/comment.css":1,"profiles\/cod\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/cod\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/cod\/modules\/contrib\/views\/css\/views.css":1,"profiles\/cod\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"profiles\/cod\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/cod\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/cod\/modules\/contrib\/field_group\/field_group.css":1,"sites\/all\/themes\/zen\/system.menus.css":1,"sites\/all\/themes\/nerdsummit\/fonts\/css\/fontello.css":1,"sites\/all\/themes\/nerdsummit\/css\/layout.css":1,"sites\/all\/themes\/nerdsummit\/css\/style.css":1,"sites\/all\/themes\/nerdsummit\/css\/styles.css":1,"sites\/all\/themes\/nerdsummit\/css\/layout.wide.css":1,"sites\/all\/themes\/nerdsummit\/css\/style.wide.css":1,"public:\/\/css_injector\/css_injector_2.css":1,"public:\/\/css_injector\/css_injector_3.css":1,"public:\/\/css_injector\/css_injector_4.css":1,"public:\/\/css_injector\/css_injector_5.css":1}},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:71b3d2d987c67a0493cbd3c921fed7cf":{"view_name":"nerd_sponsors","view_display_id":"block_1","view_args":"","view_path":"node\/2050","view_base_path":"support","view_dom_id":"71b3d2d987c67a0493cbd3c921fed7cf","pager_element":0},"views_dom_id:9c9def27cbfdb5e028faceee5ac7616b":{"view_name":"nerd_sponsors","view_display_id":"block_2","view_args":"","view_path":"node\/2050","view_base_path":"support","view_dom_id":"9c9def27cbfdb5e028faceee5ac7616b","pager_element":0}}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"field_group":{"hidden":"full"},"ogContext":{"groupType":"node","gid":"2027"}});</script>
+      <!--[if lt IE 9]>
+    <script src="/sites/all/themes/zen/js/html5-respond.js"></script>
+    <![endif]-->
+  </head>
+<body class="html not-front not-logged-in two-sidebars page-node page-node- page-node-2050 node-type-session og-context og-context-node og-context-node-2027 section-nerdsummit-2015" >
+      <p id="skip-link">
+      <a href="2050.html#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </p>
+      
+<div id="page">
+
+  <header class="header" id="header" role="banner">
+
+    <div id="header-top">
+              <a href="../index.html" title="Home" rel="home" class="header__logo" id="logo"><img src="../sites/all/themes/nerdsummit/logo.png" alt="Home" class="header__logo-image" /></a>
+      
+      <div id="social-media-links">
+        <ul>
+          <li><a href="https://twitter.com/NERDSummit" class="icon-twitter" target="_blank"></a></li>
+          <li><a href="https://www.facebook.com/nerdsummit" class="icon-facebook" target="_blank"></a></li>
+          <li><a href="https://plus.google.com/communities/116894398989164774421" class="icon-gplus" target="_blank"></a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div id="header-bottom">
+              <div class="header__name-and-slogan" id="name-and-slogan">
+                      <h1 class="header__site-name" id="site-name">
+              <a href="../index.html" title="Home" class="header__site-link" rel="home"><span>New England Regional Developers</span></a>
+            </h1>
+          
+                  </div>
+            <div id="hamburger-wrap" class="hamburger-wrap menu-hidden">
+        <div class="bun-top hamburger-part"></div>
+        <div class="patty hamburger-part"></div>
+        <div class="bun-bottom hamburger-part"></div>
+        <div class="hamburger-text">Menu</div>
+      </div>
+      <div id="navigation">
+          <div class="region region-navigation">
+    <div id="block-menu-block-top-level-nav" class="block block-menu-block first odd" role="navigation">
+
+      
+  <div class="menu-block-wrapper menu-block-top_level_nav menu-name-menu-secondary-navigation parent-mlid-0 menu-level-1">
+  <ul class="menu"><li  class="menu__item is-leaf first leaf menu-mlid-1236 learn"><a href="../learn.html" class="menu__link">Learn</a></li>
+<li  class="menu__item is-leaf leaf menu-mlid-1461 teach"><a href="../teach.html" title="" class="menu__link">Teach</a></li>
+<li  class="menu__item is-leaf leaf menu-mlid-1237 support"><a href="../support.html" class="menu__link">Support</a></li>
+<li  class="menu__item is-leaf last leaf menu-mlid-1462 summit"><a href="../2015.html" title="" class="menu__link">Summit</a></li>
+</ul></div>
+
+</div>
+<div id="block-system-main-menu" class="block block-system block-menu last even" role="navigation">
+
+      
+  <ul class="menu"><li  class="menu__item is-leaf first leaf 2014"><a href="../nerdsummit-2014/index.html" title="" class="menu__link">2014</a></li>
+<li  class="menu__item is-leaf leaf 2015"><a href="../2015/program.html" title="" class="menu__link">2015</a></li>
+<li  class="menu__item is-leaf leaf 2016"><a href="../2016.html" class="menu__link">2016</a></li>
+<li  class="menu__item is-leaf last leaf about"><a href="../about/mission.html" class="menu__link">About</a></li>
+</ul>
+</div>
+  </div>
+      </div>
+
+
+      
+      
+    </div>
+
+
+  </header>
+    <div id="banner_area">
+            </div>
+  <div id="main">
+
+    <div id="content" class="column" role="main">
+
+                  <a id="main-content"></a>
+                    <h1 class="page__title title" id="page-title">HTML5 Mobile App Development with PhoneGap</h1>
+                                          
+
+
+<article class="node-2050 node node-session view-mode-full clearfix">
+
+  
+  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even">So you want to make dynamic mobile applications, but you don't want to learn the native toolkits for Android, iOS or even Windows 8?  The future of mobile embraces standards just as the web did years ago.
+
+With this HTML5 Mobile App Development course, you will learn to create HTML5 based mobile applications that can be sold in the Apple App store, the Google Play Store or other mobile marketplaces. If you know the basics of HTML, CSS and Javascript, you're ready to take this exciting workshop. You'll be encouraged to code along with master instructor Mark Lassoff, as you create applications that demonstrate many of the features available in the PhoneGap (aka Cordova) library. 
+
+You'll work with applications that control audio and video, use remote data from a server, and interact with the phone's camera and microphone hardware. If you already know HTML, CSS and Javascript, you can be well on your way to creating engaging mobile applications that you can distribute to all major phone platforms -- without coding a line of Java or Objective C. Using the PhoneGap platform and the techniques demonstrated in this workshop you can also write your code once and distribute to both iOS and Android easily. This workshop includes dozens of code and application examples and engaging lab exercises to help you retain the material once you have reviewed it. Participants will receive a free copy of Mark's new book, HTML5 Mobile App Development.
+
+
+What will you Learn?
+• Where it's appropriate to use HTML5 Based Mobile App Development/Where It's Not
+• Architecture of HTML5 Mobile Apps
+• Workflow for HTML5 Mobile Apps
+• How to Insert Javascript Libraries
+• How to use Javascript Libraries to Handshake with Device Hardware
+• How to Write Javascript Code to Interface with Device Accelerometers
+• Using the HTML5 Canvas across diverse display environments
+• Displaying Sprite Graphics on the Canvas
+• Testing Apps on Devices
+
+
+Outline
+I. Welcome
+II. Understanding the Role of HTML5 Mobile
+    A. The Case for Standards
+    B. Cross Device Compatibility Issues
+    C. Device Hardware Diversity Issues
+III. Architecture of HTML5 Mobile Apps
+    A. Display Environment
+    B. Handshaking with Native Code
+    C. Use of Canvas
+    D. Common Libraries
+       1. jQuery Mobile
+       2. Bootstrap
+       3. PhoneGap
+IV. Workflow
+      A. Tools of the Trade
+      B. Dev Environment Based Testing
+      C. Device Based Testing
+      D. Release and Versioning
+V. Development-  Canvas Based Accelerometer App
+      A. Creating the App Skeleton
+      B. Preparing the App Skeleton for Use
+      C. Coding the App
+          1. HTML5 Canvas
+          2. Javascript Image()
+          3. Working with the Device Accelerometer
+          4. Handling Hardware Errors
+          5. Interacting with the User
+      D. Testing the App in Dev Environment
+      E. Device Testing</div></div></div><div class="field field-name-field-experience field-type-list-text field-label-inline clearfix"><div class="field-label">Experience level:&nbsp;</div><div class="field-items"><div class="field-item even">Intermediate</div></div></div><div class="field field-name-field-session-track field-type-taxonomy-term-reference field-label-above"><div class="field-label">Sessions Topics:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="../session-tracks/development.html">Development</a></div></div></div><div class="field field-name-field-speaker-bio-s- field-type-text-long field-label-above"><div class="field-label">Speaker Bio(s):&nbsp;</div><div class="field-items"><div class="field-item even">Mark Lassoff 's parents frequently claim that Mark was born to be a programmer.  Starting, in the mid-eighties at age 11, Mark was hard at work on his Commodore 64 writing games in the BASIC language.  After completing a computer science degree, Mark developed software for several well-known internet startups during the initial internet boom of the mid 1990’s.  Three years ago Mark parlayed a two decades of software development experience in to his latest entrepreneurial venture, LearnToProgram Media.
+
+LearnToProgram Media publishes online courses that teach mobile, web, and game development. Over 250,000 people have learned programming from Mark through online classes he has either authored or published. In addition to publishing popular courses and books LearnToProgram Media operates an internet video network which produces several programs on software development.
+
+Previously Mark founded PowerPlant Marketing, which created marketing automation software for REALTORS™.  After the sale of PowerPlant, Mark went on to found Internet Broadcasting Group which counted among it’s launch clients Nike, Blue Moon Brewing Company and Opubco. 
+
+Mark lives in Connecticut and speaks worldwide on software development, entrepreneurship and online learning.  He has spoken at TechWeek NY, TechWeek LA, and SXSW, among other large conferences.  In his spare time he he enjoys aviation, mentoring new business owners and spending time with life-long friends and family.
+
+
+<strong>Scheduled Appearances:</strong>
+Content Atomization and the First 500,00 Sales
+Spark, Charlotte, NC
+6/2015
+
+HTML5 Mobile Development Workshop
+mLearnCon 2015, Austin, TX
+6/2015
+
+HTML5 Master Class
+Learning Dev Camp 2015, Salt Lake City, UT
+6/2015
+
+No Code Game Development
+Learning Dev Camp 2015, Salt Lake City, UT
+6/2015
+
+Develop Immersive eLearning Games with No Coding Required
+DevLearn 2015, Las Vegas, NV
+9/2015
+
+<strong>Keynotes and Major Conference Appearances:</strong>
+Writing Your First LInes of Code, Austin, TX
+South By Southwest Interactive Conference
+http://schedule.sxsw.com/2015/events/event_IAP33050
+3/2015
+
+Keynote Address:  Lessons from Teaching Programming to 200,000 
+http://mdevcon.com/posts/category/speakers/
+mDevCon Amsterdam, The Netherlands
+3/2015
+
+<strong>Other Past Appearances:</strong>
+Hadouken! HTML5 Game Programming
+http://www.codepalousa.com/schedule/sessions/
+CodepoLOUsa!, Louisville, KY
+4/2015
+
+Mobile Open Data Apps with HTML5, Javascript and jQuery
+http://www.codepalousa.com/schedule/sessions/
+CodepoLOUsa!, Louisville, KY
+4/2015
+
+Gender and Technology
+Learning Solutions, Orlando, FL 3/2015
+
+The eLearning Entrepreneur
+Learning Solutions, Orlando, FL 3/2015
+
+
+Swift Programming Workshop
+mDevCon Amsterdam, The Netherlands
+3/2015
+
+Mobile Open Data Apps with HTML5, Javascript and jQuery
+https://www.bostoncodecamp.com/CC23/Sessions/Details/12219
+Boston Code Camp
+3/2015
+
+
+HTML5 Mobile Game Development
+Chicago WebConf
+2/2015
+
+Programming 101 in 30 Minutes (Keynote)
+http://techweek.com/speakers/losangeles/#speaker/Mark Lassoff
+TechWeek Los Angeles 2014: DevSummit 2014
+11/2014
+
+Women in IT
+DevLearn 2014, Las Vegas, NV
+10/2014
+
+Coding Responsive Design
+DevLearn 2014, Las Vegas, NV
+10/2014
+
+Fundamentals of Programming for eLearning Developers
+http://www.elearningguild.com/DevLearn/sessions/session-details.cfm?session=5700
+DevLearn 2014, Las Vegas, NV
+10/2014
+
+HTML5 Game Development
+CT.net (Microsoft), Farmington, CT
+10/2014
+
+TechWeek NY 2014:  DevSummit 2014
+Programming 101 in 30 Minutes
+10/2014
+
+Killing the Natives: HTML5 Mobile App Development with PhoneGap
+Mobility and the Modern Web 2014, University of California, Los Angeles
+9/2014
+
+Hadouken:  Mobile Game Development with HTML5
+Mobility and the Modern Web 2014, University of California, Los Angeles
+9/2014
+
+Mobile Development with PhoneGap
+New England Regional Developers Conference, Amherst, MA
+9/2014
+
+HTML5 Game Development
+JSChannel 2014, Banaglore, India
+7/2014
+
+B.Y.O.L.: HTML5 Mobile Development: Creating an eLearning App
+mLearnCon 2014, San Diego, CA
+6/2014
+
+Online Marketing Panel
+Connecticut Business Expo
+Hartford, CT 
+6/2014
+
+HTML5 Masterclass
+Learning Dev Camp, SLC, Utah
+http://learningdevcamp.com/presentation/html5-readiness-badge-html5-master-class/
+6/2014
+
+Killing the Natives: HTML5 Mobile App Development with PhoneGap
+CT Code Camp, Bloomfield, CT
+5/2014
+
+Killing the Natives: HTML5 Mobile App Development with PhoneGap
+MinneWebcon 2014, Minneapolis Minnesota
+4/2014
+
+Killing the Natives: HTML5 Mobile App Development with PhoneGap
+CodePalousa 2014, Louisville, KY
+http://codepalousa.com/component/k2/itemlist/user/250-marklassoff
+4/2014
+
+Fundamentals of Javascript for Mobile Apps
+Web Unleashed Boston, 2013
+http://fitc.ca/presentation/fundamentals-of-javascript-for-mobile-apps-2/
+
+HTML5 Mobile App Development with PhoneGap
+Scotch on the Rocks, Edinburgh, UK 2013
+http://2013.sotr.eu/index.cfm/main/presentation/detail/54
+
+HTML5 Mobile App Development with PhoneGap
+Mobility and the Modern Web, UCLA, Los Angeles, CA
+http://lanyrd.com/2013/mmwcon/
+
+HTML5 for Mobile with HTML5, CSS and Javascript
+Columbus Code Camp, Columbus, OH
+http://columbuscodecamp.com/presentations.html#HTML5 Mobile development with HTML5, CSS, and JavaScript
+
+HTML5 Masterclass: Fundamentals for eLearning
+eLearning Devcon 2013, Las Vegas, NV
+http://www.elearningguild.com/devlearn/concurrent-sessions/session-details.cfm?session=4814
+
+HTML5 Masterclass: Fundamentals for eLearning (Advanced)
+eLearning Devcon 2013, Las Vegas, NV
+http://www.elearningguild.com/devlearn/concurrent-sessions/session-details.cfm?session=4814
+
+Developing Platform Independent Mobile Apps
+Connecticut Code Camp, Bloomfield, CT
+http://www.ctdotnet.org/code-camp-6/
+
+Android Native Development for the Absolute Beginner
+Connecticut Code Camp, Bloomfield, CT
+http://www.ctdotnet.org/code-camp-6/</div></div></div>
+  <ul class="links inline"><li class="comment_forbidden log-in-to-post-comments first last"><span><a href="../user/login%3Fdestination=node%252F2050%23comment-form.html">Log in</a> to post comments</span></li>
+</ul>
+  
+</article>
+          </div>
+
+    
+          <aside class="sidebars">
+          <section class="region region-sidebar-first column sidebar">
+    <div id="block-menu-menu-ongoing-events" class="block block-menu first last odd" role="navigation">
+
+        <h2 class="block__title block-title">Summit Resources</h2>
+    
+  <ul class="menu"><li  class="menu__item is-leaf first leaf get-tickets"><a href="../2015.html" title="" class="menu__link">Get Tickets!</a></li>
+<li  class="menu__item is-leaf leaf propose-a-session"><a href="../session-submission.html" title="" class="menu__link">Propose a Session</a></li>
+<li  class="menu__item is-leaf leaf speaker-faq"><a href="../summits/speaker-faq.html" class="menu__link">Speaker FAQ</a></li>
+<li  class="menu__item is-leaf leaf sponsors-information"><a href="../sponsors-information.html" class="menu__link">Sponsors information</a></li>
+<li  class="menu__item is-leaf leaf accommodations"><a href="../summits/accommodations.html" class="menu__link">Accommodations</a></li>
+<li  class="menu__item is-leaf leaf summit-directions-parking"><a href="../summits/directions-parking.html" class="menu__link">Summit Directions &amp; Parking</a></li>
+<li  class="menu__item is-leaf leaf code-of-conduct"><a href="../summits/code-conduct.html" class="menu__link">Code of Conduct</a></li>
+<li  class="menu__item is-collapsed collapsed summit-history"><a href="../summits/history.html" class="menu__link">Summit History</a></li>
+<li  class="menu__item is-leaf leaf requested-sessions"><a href="../learn/requests.html" class="menu__link">Requested Sessions</a></li>
+<li  class="menu__item is-leaf last leaf session-tracks"><a href="../session-tracks.html" class="menu__link">Session Tracks</a></li>
+</ul>
+</div>
+  </section>
+          <section class="region region-sidebar-second column sidebar">
+    <div id="block-system-user-menu" class="block block-system block-menu first odd" role="navigation">
+
+        <h2 class="block__title block-title">User menu</h2>
+    
+  <ul class="menu"><li  class="menu__item is-leaf first leaf get-tickets"><a href="../2015.html" title="" class="menu__link">Get Tickets!</a></li>
+<li  class="menu__item is-leaf leaf list-of-proposed-sessions"><a href="../2015/program/sessions.html" title="" class="menu__link">List of Proposed Sessions</a></li>
+<li  class="menu__item is-leaf last leaf my-cart"><a href="../cart.html" title="" class="menu__link">My Cart</a></li>
+</ul>
+</div>
+<div id="block-nerd-blocks-nerd-save-date" class="block block-nerd-blocks last even">
+
+        <h2 class="block__title block-title">Save the Date</h2>
+    
+  <div class="nerd-sign-up-content">
+  <h4>Spring 2017</h4>
+  <img src="../sites/all/modules/nerd_blocks/img/nerd_img.png" alt="Nerd Summit - UMASS Amherst" />  <p>Learn with us at a free conference of talks, workshops, coding challenges, food and fun!</p>
+  <a href="http://2016.nerdsummit.org/loop" class="purple-button">Stay in the Loop!</a>  <a href="http://2016.nerdsummit.org/user/register" class="purple-button">Join NERDs</a></div>
+
+</div>
+  </section>
+      </aside>
+    
+  </div>
+
+    <footer id="footer" class="region region-footer">
+    <div id="block-views-nerd-sponsors-block-1" class="block block-views first odd">
+
+        <h2 class="block__title block-title">Sponsors</h2>
+    
+  <div class="view view-nerd-sponsors view-id-nerd_sponsors view-display-id-block_1 static-sponsors-block view-dom-id-71b3d2d987c67a0493cbd3c921fed7cf">
+            <div class="view-header">
+      <a href="../support.html" class="button">See All</a>
+<a href="../sponsors-information.html" class="button">Sponsorship Info</a>    </div>
+  
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-field-sponsor-logo">        <div class="field-content"><a href="../2015/sponsors/last-call-media.html"><img src="../sites/default/files/styles/medium/public/LCM-light2-trans_0.png%3Fitok=YYmItNR-" width="320" height="320" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../2015/sponsors/last-call-media.html">Last Call Media</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even views-row-last">
+      
+  <div class="views-field views-field-field-sponsor-logo">        <div class="field-content"><a href="../2015/sponsors/massmutual.html"><img src="../sites/default/files/styles/medium/public/image_0.jpg%3Fitok=HrNBBvj1" width="320" height="320" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../2015/sponsors/massmutual.html">MassMutual</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</div>
+<div id="block-views-nerd-sponsors-block-2" class="block block-views even">
+
+      
+  <div class="view view-nerd-sponsors view-id-nerd_sponsors view-display-id-block_2 rotating-sponsors-block view-dom-id-9c9def27cbfdb5e028faceee5ac7616b">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-sponsor-logo">        <div class="field-content"><a href="../sponsor/sweet-and-fizzy.html"><img src="../sites/default/files/styles/medium/public/snf-sm.png%3Fitok=0-5wpm7q" width="320" height="320" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../sponsor/sweet-and-fizzy.html">Sweet and Fizzy</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</div>
+<div id="block-block-3" class="block block-block odd">
+
+      
+  <p>© 2016&nbsp;New England Regional Developers</p>
+
+</div>
+<div id="block-block-6" class="block block-block last even">
+
+      
+  <p><a href="../summits/code-conduct.html">NERDSummit Code of Conduct</a></p>
+
+</div>
+  </footer>
+
+</div>
+
+  </body>
+</html>
